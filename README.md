@@ -1,6 +1,10 @@
 # Hi there, I'm Kusnadi 👋 
 
+- 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning everything 🤣
+- 🤝 I’m also open collaboration with others
+- 🥅 2022 Goals: Can learn DevOps Technologies
+- 📫 How to reach me: [Linkedin - Muhammad Kusnadi](https://linkedin.com/in/muhammad-kusnadi)
 
 ### Languages and Tools:
 
