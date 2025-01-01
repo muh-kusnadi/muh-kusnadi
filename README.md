@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m also open collaboration with others
-- 🥅 2024 Goals: Go / Python / Java and Front End Technologies
+- 🥅 2025 Goals: Go / Python / Java and Front End Technologies
 - 📫 How to reach me: [Linkedin - Muhammad Kusnadi](https://linkedin.com/in/muhammad-kusnadi)
 
 ### Languages and Tools:
